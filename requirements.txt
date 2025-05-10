@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+pypdf
+langchain-community
+langchain-openai
+# good luck installing langgraph

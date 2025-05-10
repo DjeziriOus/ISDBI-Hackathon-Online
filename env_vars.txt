@@ -1,0 +1,5 @@
+$env:LANGSMITH_API_KEY  = "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"
+$env:LANGSMITH_ENDPOINT = "https://api.smith.langchain.com/"
+$env:LANGSMITH_PROJECT  = "pr-aching-floozie-98"
+$env:LANGSMITH_TRACING  = "true"
+$env:OPENAI_API_KEY = "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"
